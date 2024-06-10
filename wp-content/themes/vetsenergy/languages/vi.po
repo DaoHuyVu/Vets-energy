@@ -1,0 +1,553 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trung tâm năng lượng VETS | Energy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-06 02:36+0000\n"
+"PO-Revision-Date: 2021-09-06 02:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: vetsenergy"
+
+#: 404.php:6 layout/category/404.php:4
+msgid "404, Không tìm thấy đường dẫn này"
+msgstr "404, Không tìm thấy đường dẫn này"
+
+#: footer.php:10 footer.php:12 index.php:32 layout/category/about-us.php:88
+msgid "Vets Energy"
+msgstr "Vets Energy"
+
+#: footer.php:22 index.php:89 index.php:135 index.php:206
+#: layout/category/about-us.php:51 layout/category/solution.php:14
+#: layout/category/sustainable-development.php:62
+#: layout/category/training.php:62
+msgid "Xem thêm"
+msgstr "Xem thêm"
+
+#: footer.php:26 page-contact.php:115
+msgid "Trụ sở Hà Nội"
+msgstr "Trụ sở Hà Nội"
+
+#: footer.php:27 footer.php:32
+msgid "Điện thoại"
+msgstr "Điện thoại"
+
+#: footer.php:28 footer.php:33 page-contact.php:132 page-contact.php:168
+msgid "Email"
+msgstr "Email"
+
+#: footer.php:31
+msgid "VPĐD HCM"
+msgstr "VPĐD HCM"
+
+#: footer.php:39 functions.php:1110
+msgid "Mạng xã hội"
+msgstr "Mạng xã hội"
+
+#: footer.php:50
+msgid "Chính sách"
+msgstr "Chính sách"
+
+#: footer.php:61
+msgid "Liên kết khác"
+msgstr "Liên kết khác"
+
+#: functions.php:23
+msgid "Menu chính"
+msgstr "Menu chính"
+
+#: functions.php:24
+msgid "Menu cuối trang 1"
+msgstr "Menu cuối trang 1"
+
+#: functions.php:25
+msgid "Menu cuối trang 2"
+msgstr "Menu cuối trang 2"
+
+#: functions.php:521
+msgid "Thông tin mở rộng"
+msgstr "Thông tin mở rộng"
+
+#: functions.php:538
+msgid "Mô tả tóm tắt:"
+msgstr "Mô tả tóm tắt:"
+
+#: functions.php:630 functions.php:723
+msgid "Giao diện"
+msgstr "Giao diện"
+
+#: functions.php:634 functions.php:725
+msgid "Mặc định"
+msgstr "Mặc định"
+
+#: functions.php:635 functions.php:726
+msgid "Giải pháp"
+msgstr "Giải pháp"
+
+#: functions.php:636 functions.php:727
+msgid "Đào tạo"
+msgstr "Đào tạo"
+
+#: functions.php:637 functions.php:728
+msgid "Sản phẩm"
+msgstr "Sản phẩm"
+
+#: functions.php:638 functions.php:729
+msgid "Ứng dụng"
+msgstr "Ứng dụng"
+
+#: functions.php:639 functions.php:730
+msgid "Về chúng tôi"
+msgstr "Về chúng tôi"
+
+#: functions.php:640 functions.php:731
+msgid "Lịch sử hình thành"
+msgstr "Lịch sử hình thành"
+
+#: functions.php:641 functions.php:732
+msgid "Ban giám đốc"
+msgstr "Ban giám đốc"
+
+#: functions.php:642 functions.php:733 functions.php:1088
+msgid "Thành viên"
+msgstr "Thành viên"
+
+#: functions.php:643 functions.php:734 functions.php:1095
+msgid "Hội viên"
+msgstr "Hội viên"
+
+#: functions.php:644 functions.php:735 functions.php:1080 functions.php:1102
+msgid "Đối tác"
+msgstr "Đối tác"
+
+#: functions.php:645 functions.php:736
+msgid "Phát triển bền vững"
+msgstr "Phát triển bền vững"
+
+#: functions.php:646 functions.php:737
+msgid "Tin tức"
+msgstr "Tin tức"
+
+#: functions.php:647 functions.php:738
+msgid "Công cụ"
+msgstr "Công cụ"
+
+#: functions.php:648 functions.php:739
+msgid "Cấp cuối"
+msgstr "Cấp cuối"
+
+#: functions.php:654 functions.php:659 functions.php:743 functions.php:746
+msgid "Ảnh đại diện"
+msgstr "Ảnh đại diện"
+
+#: functions.php:661 functions.php:674 functions.php:687 functions.php:708
+#: functions.php:748 functions.php:757 functions.php:774
+msgid "Chọn"
+msgstr "Chọn"
+
+#: functions.php:661 functions.php:687 functions.php:748
+msgid "Chọn ảnh đại diện"
+msgstr "Chọn ảnh đại diện"
+
+#: functions.php:662 functions.php:675 functions.php:688 functions.php:709
+#: functions.php:749 functions.php:758 functions.php:775
+msgid "Xóa"
+msgstr "Xóa"
+
+#: functions.php:667 functions.php:672 functions.php:752 functions.php:755
+msgid "Ảnh bìa"
+msgstr "Ảnh bìa"
+
+#: functions.php:674 functions.php:757
+msgid "Chọn ảnh bìa"
+msgstr "Chọn ảnh bìa"
+
+#: functions.php:680 functions.php:685
+msgid "Ảnh trang chủ"
+msgstr "Ảnh trang chủ"
+
+#: functions.php:692 functions.php:761
+msgid "Tiêu đề phụ"
+msgstr "Tiêu đề phụ"
+
+#: functions.php:696 functions.php:765
+msgid "Mô tả phụ"
+msgstr "Mô tả phụ"
+
+#: functions.php:701 functions.php:706 functions.php:769 functions.php:772
+msgid "Ảnh bìa phụ"
+msgstr "Ảnh bìa phụ"
+
+#: functions.php:708 functions.php:774
+msgid "Chọn ảnh bìa phụ"
+msgstr "Chọn ảnh bìa phụ"
+
+#: functions.php:1057
+msgid "Trang chủ"
+msgstr "Trang chủ"
+
+#: functions.php:1065
+msgid "Ảnh bìa 1"
+msgstr "Ảnh bìa 1"
+
+#: functions.php:1066 functions.php:1073
+msgid "Hiển thị tốt nhất với kích thước 1440x560px."
+msgstr "Hiển thị tốt nhất với kích thước 1440x560px."
+
+#: functions.php:1072
+msgid "Ảnh bìa 2"
+msgstr "Ảnh bìa 2"
+
+#: functions.php:1089 functions.php:1096 functions.php:1103
+msgid "Hiển thị tốt nhất với kích thước 215x104px."
+msgstr "Hiển thị tốt nhất với kích thước 215x104px."
+
+#: functions.php:1118
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:1124
+msgid "Youtube"
+msgstr "Youtube"
+
+#: functions.php:1131
+msgid "Thông tin công ty"
+msgstr "Thông tin công ty"
+
+#: functions.php:1139
+msgid "Giới thiệu"
+msgstr "Giới thiệu"
+
+#: functions.php:1145
+msgid "Trụ sở (Hà Nội)"
+msgstr "Trụ sở (Hà Nội)"
+
+#: functions.php:1151
+msgid "Điện thoại (Hà Nội)"
+msgstr "Điện thoại (Hà Nội)"
+
+#: functions.php:1157
+msgid "Email (Hà Nội)"
+msgstr "Email (Hà Nội)"
+
+#: functions.php:1163
+msgid "VPDD (HCM)"
+msgstr "VPĐD (HCM)"
+
+#: functions.php:1169
+msgid "Điện thoại (HCM)"
+msgstr "Điện thoại (HCM)"
+
+#: functions.php:1175
+msgid "Email (HCM)"
+msgstr "Email (HCM)"
+
+#: functions.php:1187
+msgid "Theme Information 1"
+msgstr "Thông tin chủ đề 1"
+
+#: functions.php:1188 functions.php:1195
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<p>Đây là nội dung tab, HTML được phép.</p>"
+
+#: functions.php:1194
+msgid "Theme Information 2"
+msgstr "Thông tin chủ đề 2"
+
+#: functions.php:1199
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p>Đây là nội dung thanh bên, HTML được phép.</p>"
+
+#: functions.php:1223 functions.php:1224
+msgid "Cấu hình Website"
+msgstr "Cấu hình Website"
+
+#: functions.php:1414
+msgctxt "Post type general name"
+msgid "Công cụ"
+msgstr "Công cụ"
+
+#: functions.php:1415
+msgctxt "Post type singular name"
+msgid "Công cụ"
+msgstr "Công cụ"
+
+#: functions.php:1416
+msgctxt "Admin Menu text"
+msgid "Công cụ"
+msgstr "Công cụ"
+
+#: functions.php:1417
+msgctxt "Add New on Toolbar"
+msgid "Công cụ"
+msgstr "Công cụ"
+
+#: functions.php:1418
+msgid "Thêm mới"
+msgstr "Thêm mới"
+
+#: functions.php:1419 functions.php:1420
+msgid "Thêm mới Công cụ"
+msgstr "Thêm mới Công cụ"
+
+#: functions.php:1421
+msgid "Edit Công cụ"
+msgstr "Sửa Công cụ"
+
+#: functions.php:1422
+msgid "View Công cụ"
+msgstr "Xem Công cụ"
+
+#: functions.php:1423
+msgid "Tất cả công cụ"
+msgstr "Tất cả công cụ"
+
+#: functions.php:1424
+msgid "Tìm kiếm công cụ"
+msgstr "Tìm kiếm công cụ"
+
+#: functions.php:1425
+msgid "Parent Tools:"
+msgstr "Công cụ cha:"
+
+#: functions.php:1426
+msgid "No Tools found."
+msgstr "Không tìm thấy công cụ nào."
+
+#: functions.php:1427
+msgid "No Tools found in Trash."
+msgstr "Không tìm thấy Công cụ nào trong Thùng rác."
+
+#: functions.php:1428
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr "Đặt ảnh bìa"
+
+#: functions.php:1429
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr "Xóa ảnh bìa"
+
+#: functions.php:1430
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr "Sử dụng làm ảnh bìa"
+
+#: functions.php:1431
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Tool archives"
+msgstr "Kho lưu trữ công cụ"
+
+#: functions.php:1432
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into Tool"
+msgstr "Chèn vào Công cụ"
+
+#: functions.php:1433
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this Tool"
+msgstr "Đã tải lên Công cụ này"
+
+#: functions.php:1434
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Tools list"
+msgstr "Danh sách công cụ lọc"
+
+#: functions.php:1435
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Tools list navigation"
+msgstr "Điều hướng danh sách công cụ"
+
+#: functions.php:1436
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Tools list"
+msgstr "Danh sách công cụ"
+
+#: functions.php:1439 functions.php:1440
+msgid "Tool Design"
+msgstr "Thiết kế công cụ"
+
+#: functions.php:1479
+msgid "Link tải công cụ"
+msgstr "Link tải công cụ"
+
+#: header.php:80 search.php:18
+msgid "Tìm kiếm"
+msgstr "Tìm kiếm"
+
+#: index.php:35
+msgid "Hiểu thêm về chúng tôi"
+msgstr "Hiểu thêm về chúng tôi"
+
+#: index.php:36 layout/category/about-us.php:73
+#: layout/category/application.php:70
+#: layout/category/board-of-management.php:50 layout/category/news.php:61
+#: layout/category/product.php:53 layout/category/tools.php:64
+msgid "Tìm hiểu"
+msgstr "Tìm hiểu"
+
+#. Name of the template
+#: includes/section-contact.php:8
+msgid "Liên hệ"
+msgstr "Liên hệ"
+
+#: page-contact.php:34
+msgid "Nhấn để làm mới mã xác nhận"
+msgstr "Nhấn để làm mới mã xác nhận"
+
+#: page-contact.php:49
+msgid "Bạn phải nhập Họ tên!"
+msgstr "Bạn phải nhập Họ tên!"
+
+#: page-contact.php:52
+msgid "Bạn phải nhập Email!"
+msgstr "Bạn phải nhập Email!"
+
+#: page-contact.php:54
+msgid "Bạn phải nhập Email đúng định dạng!"
+msgstr "Bạn phải nhập Email đúng định dạng!"
+
+#: page-contact.php:57
+msgid "Bạn phải nhập Điện thoại đúng định dạng!"
+msgstr "Bạn phải nhập Điện thoại đúng định dạng!"
+
+#: page-contact.php:60
+msgid "Sai mã xác nhận!"
+msgstr "Sai mã xác nhận!"
+
+#: page-contact.php:77
+msgid ""
+"Cám ơn bạn đã gửi thông tin liên hệ. Chúng tôi sẽ liên hệ với bạn trong thời "
+"gian sớm nhất."
+msgstr ""
+"Cám ơn bạn đã gửi thông tin liên hệ. Chúng tôi sẽ liên hệ với bạn trong thời "
+"gian sớm nhất."
+
+#: page-contact.php:80
+msgid "Có lỗi xảy ra. Vui lòng liên hệ ban quản trị!"
+msgstr "Có lỗi xảy ra. Vui lòng liên hệ ban quản trị!"
+
+#: page-contact.php:120 page-contact.php:156
+msgid "Địa chỉ"
+msgstr "Địa chỉ"
+
+#: page-contact.php:126 page-contact.php:162
+msgid "Hotline"
+msgstr "Hotline"
+
+#: page-contact.php:151
+msgid "Văn phòng đại diện HCM"
+msgstr "Văn phòng đại diện HCM"
+
+#: page-contact.php:187
+msgid "Kết nối với chúng tôi"
+msgstr "Kết nối với chúng tôi"
+
+#: page-contact.php:188
+msgid ""
+"Gửi tin nhắn cho chúng tôi để được giải đáp mọi thắc mắc về sản phẩm và dịch "
+"vụ của Vets Energy."
+msgstr ""
+"Gửi tin nhắn cho chúng tôi để được giải đáp mọi thắc mắc về sản phẩm và dịch "
+"vụ của Vets Energy."
+
+#: page-contact.php:193
+msgid "Có lỗi xảy ra:"
+msgstr "Có lỗi xảy ra:"
+
+#: page-contact.php:225
+msgid "Gửi thông tin"
+msgstr "Gửi thông tin"
+
+#: search.php:44
+msgid "kết quả được tìm thấy"
+msgstr "kết quả được tìm thấy"
+
+#: search.php:59
+msgid "Không tìm thấy kết quả phù hợp"
+msgstr "Không tìm thấy kết quả phù hợp"
+
+#: includes/section-contact.php:6
+msgid "Liên hệ với chúng tôi"
+msgstr "Liên hệ với chúng tôi"
+
+#: includes/section-contact.php:7
+msgid "Để tìm hiểu thêm về các sản phẩm của chúng tôi và các ưu đãi đặc biệt"
+msgstr "Để tìm hiểu thêm về các sản phẩm của chúng tôi và các ưu đãi đặc biệt"
+
+#: layout/category/about-us.php:89
+msgid ""
+"Chúng tôi mong muốn tạo ra sự khác biệt mang tính tích cực trên thế giới."
+msgstr ""
+"Chúng tôi mong muốn tạo ra sự khác biệt mang tính tích cực trên thế giới."
+
+#: layout/category/solution.php:12
+msgid "Chuyên gia của Vets"
+msgstr "Chuyên gia của Vets"
+
+#: layout/category/solution.php:13
+msgid ""
+"Every day, our energy efficient pumps provide comfort, deliver drinking "
+"water, remove wastewater, or help farmers water their crops all over the "
+"world. Just to mention some of our expertise. We set the standard within our "
+"work areas and keep raising the bar when it comes to energy efficiency and "
+"protecting the environment."
+msgstr ""
+"Hàng ngày, các máy bơm tiết kiệm năng lượng của chúng tôi cung cấp sự thoải "
+"mái, cung cấp nước uống, loại bỏ nước thải hoặc giúp nông dân tưới cây của "
+"họ trên khắp thế giới. Chỉ để đề cập đến một số chuyên môn của chúng tôi. "
+"Chúng tôi đặt ra tiêu chuẩn trong các lĩnh vực làm việc của mình và tiếp tục "
+"nâng cao tiêu chuẩn về hiệu quả năng lượng và bảo vệ môi trường."
+
+#: layout/single/default.php:24
+msgid "In tin bài"
+msgstr "In tin bài"
+
+#: layout/single/default.php:39 layout/category/includes/social.php:12
+msgid "Gửi tin bài qua email"
+msgstr "Gửi tin bài qua email"
+
+#: layout/single/default.php:93
+msgid "Tin liên quan"
+msgstr "Tin liên quan"
+
+#. Name of the theme
+msgid "Trung tâm năng lượng VETS | Energy"
+msgstr "Trung tâm năng lượng VETS | Energy"
+
+#. Description of the theme
+msgid "Theme for Vets | Energy"
+msgstr "Chủ đề cho Vets | Năng lượng"
+
+#. URI of the theme
+msgid "https://wordpress.org/themes/vetsenergy/"
+msgstr "https://wordpress.org/themes/vetsenergy/"
+
+#. Author of the theme
+msgid "Amitech"
+msgstr "Amitech"
+
+#. Author URI of the theme
+msgid "https://amitech.vn"
+msgstr "https://amitech.vn"

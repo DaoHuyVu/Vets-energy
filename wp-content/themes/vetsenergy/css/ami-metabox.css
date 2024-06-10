@@ -1,0 +1,95 @@
+.ami-metabox-output {
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #e3e3e3;
+}
+
+.ami-metabox-output-ext {
+	display: none;
+}
+
+.ami-metabox-output .clearfix:before,
+.ami-metabox-output .clearfix:after {
+	content: "";
+	display: table;
+}
+
+.ami-metabox-output .clearfix:after {
+	clear: both;
+}
+
+.ami-metabox-output .clearfix {
+	zoom: 1;
+}
+
+.ami-metabox-item {
+	display: block;
+	margin-bottom: 10px;
+}
+
+@media only screen and (min-width: 1200px) {
+	.ami-metabox-item .title {
+		width: 20%;
+		float: left;
+	}
+
+	.ami-metabox-item .control {
+		width: 80%;
+		float: left;
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 1199px) {
+	.ami-metabox-item .title {
+		width: 30%;
+		float: left;
+	}
+
+	.ami-metabox-item .control {
+		width: 70%;
+		float: left;
+	}
+}
+
+@media only screen and (max-width: 575px) {
+	.ami-metabox-item .title {
+		width: 100%;
+	}
+
+	.ami-metabox-item .control {
+		width: 100%;
+	}
+}
+
+.ami-metabox-item .title .label {
+	display: inline-block;
+	font-weight: 600;
+	padding: 5px 0px;
+}
+
+.ami-metabox-item .control .textbox {
+	width: 100%;
+	border: 1px solid #ccc;
+}
+
+.ami-metabox-item .control .textarea {
+	width: 100%;
+	height: 120px;
+	resize: none;
+}
+
+.ami-metabox-item-image .image {
+	margin-bottom: 5px;
+}
+
+.ami-metabox-item-image .image img {
+	max-width: 100%;
+	height: auto;
+}
+
+.ami-metabox-item-image .button-delete {
+	background: none !important;
+	color: #a00 !important;
+	border: none;
+	box-shadow: none;
+}
